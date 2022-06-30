@@ -16,14 +16,15 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    # if message.author == client.user:
-    #     return
+    if message.author == client.user:
+        return
 
     # if message.content.startswith('$hello'):
     #     await message.channel.send('Hello!')
+    
     if message.content.startswith('$help'):
         str = "Welcome to the Fate GO Game!\nFind out which servant you are\n\nRules of the game:\n1. Enter 6 numbers between 1-18\nFormat: '$play num1 num2 num3 num4 num5 num6'\n2. Take care the sum does not cross 80, else you will have to retry"
-        await message.channel.send(str)
+        return
 
     if message.content.startswith('$play'):
         str = message.content.replace('$play', '')
