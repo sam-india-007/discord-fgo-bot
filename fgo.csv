@@ -1,0 +1,167 @@
+Servant,STR,AGI,LCK,END,Mana,NP
+Altria Pendragon,B,B,A+,B,A,A++
+Altera,B,A,A,A,B,A+
+Gilgamesh,B,C,A,C,B,EX
+Zhuge Liang,E,D,B+,E,A+,A
+Sakata Kintoki,A+,B,C,B,C,C
+Vlad III,A,C,E,A,B,A
+Jeanne d’Arc,B,A,C,B,A,A++
+Orion,D,B,A+,C,A,A
+Tamamo no Mae,E,B,D,E,A,B
+Francis Drake,D,B,EX,C,E,A+
+Okita Souji,C,A+,D,E,E,C
+Scathach,B,A,D,A,C,A+
+Jack the Ripper,C,A,E,C,C,C
+Mordred,B+,B,D,A,B,A
+Nikola Tesla,D,C,D,C,B,EX
+Solomon,E,B,A++,E,A++,A++
+Arjuna,A,B,A++,B,B,EX
+Karna,B,A,D,C,B,EX
+Mysterious Heroine X,B,A+,D,C,B,A++
+Brynhildr,B+,A,E,A,C,A
+Nero Claudius (Bride),B,A,A,C,E,B+
+Ryougi Shiki (Saber),E,C,A,A,B,B+
+Amakusa Shirou,C,B,B,C,A,D
+Nightingale,B+,B+,A+,A+,D+,D
+Cu Chulainn (Alter),A,A+,D,B+,C,A
+Medb,E,B,EX,E,C,A+
+Jeanne d’Arc (Alter),A,A,E,C,A+,A+
+Iskandar,B,D,A+,A,C,A++
+Shuten Douji,A,B,D,B,A+,B
+Xuanzang,E,B,EX,D,A+,A
+Minamoto no Yorimitsu,A,D,C,B,A,A+
+Rameses II,C,B,A+,C,A,EX
+Altria Pendragon (Lancer),B,A,C,A,A,A++
+Leonardo da Vinci,E,C,B,E,A+,EX
+Tamamo no Mae (Lancer),B,A,A,C,E,C
+Altria Pendragon (Archer),C,B+,A+,C,A+,A
+Illyasviel von Einzbern,E,D,A,C,B,A+
+Cleopatra,B,A,D,C,D,A
+Ishtar,B,B,A,B,EX,A++
+Quetzalcoatl,B,B+,A+,B,EX,EX
+Merlin,B,D,C,E,A,C
+Goetia,A,D,B,A,A+,A+++
+Solomon,E,B,A++,E,A++,A+++
+Miyamoto Musashi,B,B,B,B,E,B
+King Hassan,B,B,E,A,E,A
+Mysterious Heroine X (Alter),A,B,C,B,A+,A++
+James Moriarty,C,A,A,D,B,C
+Arthur Pendragon (Prototype),A,B,B,A+,B,EX
+Hijikata Toshizou,C,C,C,C,E,C+
+Meltlilith,E,A+,B,C,A,EX
+Sessyoin Kiara,D,B+,E,A+,EX,EX
+Beast III/R,C,B,A,EX,EX,EX
+Scheherazade,E,E,EX,D,C,EX
+Mash Kyrielight,C,D,C,A,B,B+++
+Altria Pendragon (Alter Saber),A,D,C,A,A++,A++
+Altria Pendragon (Lily),C,B,A+,C,A,B
+Nero Claudius,D,A,A,D,B,B
+Siegfried,B+,B,E,A,C,A
+Chevalier d’Eon,A,B,A,B,C,C
+Emiya,D,C,E,C,B,E~A+
+Atalante,D,A,C,E,B,C
+Elisabeth Bathory,C,E,B,D,A,D
+Marie Antoinette,D,B,B+,D,B,A+
+Saint Martha,D,B,A+,C,A,A+
+Stheno,E,B,EX,E,EX,B
+Carmilla,D,A,D,D,C,B
+Heracles,A+,A,B,A,A,A
+Lancelot,A,A+,B,A,C,A
+Tamamo Cat,B+,A,B,E,A,D
+Elisabeth Bathory (Halloween),D,D,C,D,B,D
+Anne Bonny & Mary Read,C,A,B,C,E,C
+Medea (Lily),E,D,A,E,A,C
+Oda Nobunaga,C,C,B,B,B,E~A
+Altria Pendragon (Santa Alter),A,D,A,C,B,A++
+Nursery Rhyme,E,C,B,E,A,C++
+Altria Pendragon (Alter Lancer),A,C,D,A+,A+,A++
+Frankenstein,C,D,E,B,D,C
+Fionn Mac Cumhail,B+,A+,C,B,C,B+
+Beowulf,A,C,A,A,D,A
+Ryougi Shiki (Assassin),E,A+,A+,D,C,EX
+Astolfo,D,B,A+,D,C,C
+Helena Blavatsky,E,D,A,E,A,A
+Rama,A,A+,B,B,B,A
+Thomas Edison,E,E,A,EX,EX,EX
+Emiya (Assassin),D,A,E,C,C,B+
+Irisviel (Dress of Heaven),E,C,B,E,A+,B
+Sakata Kintoki (Rider),A+,B+,C,B,C,B
+Ibaraki Douji,B,C,B,A+,C,C
+Nitocris,E,C,B+,E,A,B+
+Lancelot (Saber),B,B,B+,A,C,A++
+Tristan,B,A,E,B,B,A
+Gawain,B+,B+,A,B+,A,A+
+Marie Antoinette (Caster),E,C,B+,D,A,A+
+Anne Bonny & Mary Read,D,A,A,C,D,A
+Mordred (Rider),C+,A+,A,B,B,A
+Scathach (Assassin),C,A+,D,C,C,A+
+Kiyohime (Lancer),D,B,A+,D,E,C
+Saint Martha (Ruler),B+,B,A+,B,A,A
+Chloe von Einzbern,D,B,C,C,C,C
+Elisabeth Bathory (Brave),B,C,B,C,C,C
+Vlad III (Extra),A,C,E,A,B,A
+Jeanne d’Arc Alter Santa Lily,C,A,A++,D,B,A+
+Gilgamesh (Caster),C,C,A,D,B,EX
+Medusa (Lancer),C,A,C,D,E,A+
+Gorgon,A++,B,D,A++,B,A
+Hessian Lobo,A+,A+,D,B+,E,B+
+Yan Qing,B,A+,B,D,D,D
+Chacha,D,D,B,D,C,C
+Passionlip,A+,C,E,A,B,C
+Suzuka Gozen,D,A,B,D,A,EX
+BB,E,D,EX,C,A,A
+Wu Zetian,D,A,A,E,B,B
+Penthesilea,A+,C,D,B+,A,A
+Mash Kyrielight,C,D,C,A,B,D
+Gaius Julius Caesar,A,B,C,B,D,B+
+Gilles de Rais,B,C,D,C,D,B
+Robin Hood,C,B,B,C,B,D
+Euryale,E,C,EX,E,EX,C
+Cu Chulainn,B,A,E,C,C,B
+Cu Chulainn (Prototype),A,A+,D,C,B,B
+Romulus,B,A,B,A,C,A++
+Medusa,B,A,E,D,B,A+
+Boudica,C,C,D,B+,D,B+
+Ushiwakamaru,D,A+,A,C,B,A+
+Alexander,C,B,A+,B,C,B+
+Medea,E,C,B,D,A+,C
+Gilles de Rais (Caster),D,D,E,E,C,A+
+Mephistopheles,D,B,B,C,A,B
+Cu Chulainn (Caster),E,C,D,D,B,B
+Jing Ke,D,A,D,E,E,B
+Lu Bu Fengxian,A+,B+,C+,A+,C+,A
+Darius III,A,B,D,A+,E,A
+Kiyohime,E,C,E,E,E,EX
+David,C,B,A,D,C,B
+Hector,B,A,B,B,B,B
+Diarmuid Ua Duibhne,B,A+,E,C,D,B
+Fergus Mac Roich,A,B,C,A,C,C
+Paracelsus Van Hohenheim,D,C,B,E,A,A++
+Charles Babbage,B++,D++,E,B++,E,B
+Henry Jekyll & Hyde,C+,A+,C,E,D,B
+Young Gil,C,C,C,C,A,EX
+Geronimo,C,B,C,D,B+,B
+Billy the Kid,D,B,B,E,E,C
+Hundred-Faced Hassan,C,A,E,D,C,B
+Fuuma Kotarou,C+,A+,B,D,B,C
+Hassan of Serenity,D,A+,A,D,C,C
+Tawara Touda,B,D,B,B,C,A
+Bedivere,A,A+,B,B,C,A
+Jaguar Man,C,B,B,C,E,B
+Christopher Columbus,C,D,EX,B,E,A
+Musashibou Benkei,A,C,C,B+,D,C
+Leonidas I,B,D,C,A,C,B
+Georgios,D,C++,A+,A+,D,C
+Edward Teach,B+,E,C,A,D,C
+Hans Christian Andersen,E,E,E,E,EX,C
+William Shakespeare,E,D,B,E,C++,C+
+Hassan of the Cursed Arm,B,A,E,C,C,C
+Charles-Henri Sanson,D,C,A,D,D,B
+Phantom of the Opera,B,A,D,C,D,B
+Caligula,A+,B+,D+,B+,D+,C
+Eric Bloodaxe,B+,D,C,B+,D,C
+Arash,B,B+,D,A,E,B++
+Wolfgang Amadeus Mozart,D,B,D,E,B+,B
+Spartacus,A,D,D,EX,E,C
+Asterios,A++,C,E,A++,D,A
+Angra Mainyu,E,A,E+,E,D,C
